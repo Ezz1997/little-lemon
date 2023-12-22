@@ -16,18 +16,10 @@ function App() {
       <Nav></Nav>
 
       <Main>
-        <section>
           <HeroSection></HeroSection>
-        </section>
-        <section>
           <Highlights></Highlights>
-        </section>
-        <section>
           <Testimonials></Testimonials>
-        </section>
-        <section>
           <About></About>
-        </section>
       </Main>
 
       <Footer>

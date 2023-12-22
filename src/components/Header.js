@@ -1,7 +1,12 @@
+import logo from "../images/Logo .svg";
 
 const Header = () => {
     return (
-        <div></div>
+        <header>
+            <div>
+                <img src={logo} alt="Little Lemon Logo"></img>
+            </div>
+        </header>
     );
 };
 
